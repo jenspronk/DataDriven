@@ -1,0 +1,166 @@
+"id","hostid","name","roomtype","bathrooms","bedrooms","hostlistings","calendar_last_scraped","pricelast","reviewtotal","reviewspermonth","neighborhood","borough","latitude","longitude","minstay","maximum_nights","availability_30","availability_60","availability_90","availability_365","review_scores_rating","review_scores_accuracy","review_scores_cleanliness","review_scores_communication","review_scores_location","review_scores_value"
+4785215,10502090,"Century House Doug Fir Room","Private room",NA,1,5,"2021-12-20",89,96,1.13,"Ward 2",NA,44.93448,-123.02103,2,1125,23,51,74,247,4.95,4.95,4.99,4.98,4.82,4.85
+7293821,38202007,"Chauffeurs Room @ the Villa","Entire home/apt",NA,NA,1,"2021-12-20",113,355,4.54,"Ward 7",NA,44.92484,-123.0499,2,28,24,49,79,79,4.95,4.97,4.97,4.99,4.98,4.91
+8524259,2421461,"Single room in Comfort Home","Private room",NA,1,2,"2021-12-20",65,3,0.06,"Ward 7",NA,44.89105,-123.06843,1,90,2,2,2,264,5,5,5,5,5,5
+8698684,3208932,"Charming 1925 Craftsman centrally located!","Entire home/apt",NA,3,3,"2021-12-20",261,81,1.11,"Ward 2",NA,44.93305,-123.01985,3,31,0,14,32,150,4.78,4.81,4.53,4.98,4.9,4.83
+9238563,48017737,"Spacious Suite w/ Private Sauna and AC in City","Entire home/apt",NA,1,1,"2021-12-20",92,360,4.88,"Ward 1",NA,44.95434,-123.05679,3,66,23,53,76,166,4.9,4.95,4.99,4.96,4.89,4.89
+9477671,14797761,"Stylish Private Urban Guest House-Vaccine Required","Entire home/apt",NA,1,1,"2021-12-20",76,524,8.01,"Ward 1",NA,44.95668,-123.02635,1,14,9,32,51,51,4.98,4.99,5,4.99,4.94,4.93
+9597053,18810608,"Spacious home near downtown Salem","Entire home/apt",NA,1,1,"2021-12-20",79,210,2.89,"Ward 1",NA,44.95171,-123.04056,3,1125,10,25,52,104,4.89,4.92,4.91,4.99,4.68,4.93
+9956213,38945057,"Immaculate home with Central AC in SE Salem","Entire home/apt",NA,3,1,"2021-12-20",190,100,1.38,"Ward 4",NA,44.8759,-123.0604,2,30,20,50,80,170,4.93,4.98,4.94,4.99,4.88,4.89
+10074172,51689419,"Relax in a  Quiet Peaceful Historic House","Private room",NA,1,4,"2021-12-20",79,157,2.18,"Ward 1",NA,44.94404,-123.0128,1,100,30,60,90,180,4.47,4.66,4.47,4.83,4.81,4.58
+11362008,3208932,"Travel Inspired King Room (+ desk), Central Salem","Private room",NA,1,3,"2021-12-20",40,366,5.29,"Ward 2",NA,44.93135,-123.02125,1,30,18,47,77,130,4.87,4.93,4.76,4.98,4.95,4.94
+12588161,68279432,"Home away from home","Private room",NA,1,1,"2021-12-20",35,63,0.92,"Ward 2",NA,44.91015,-123.03455,14,1125,0,5,35,310,4.86,4.97,4.97,4.94,4.9,4.92
+12892550,972844,"Peaceful Room in Salem Historic Neighborhood","Private room",NA,1,1,"2021-12-20",84,134,1.96,"Ward 1",NA,44.94406,-123.01257,1,1125,28,58,88,178,4.41,4.63,4.53,4.71,4.77,4.54
+13238464,18605800,"House on the Corner","Private room",NA,2,1,"2021-12-20",80,47,1.67,"Ward 1",NA,44.94813,-123.02608,2,16,2,23,53,53,4.96,4.98,5,4.96,5,4.94
+13620753,78890374,"Private Suite 5 mins to Downtown /60 mins to Coast","Private room",NA,1,1,"2021-12-20",67,382,5.72,"Ward 8",NA,44.9622,-123.0696,1,1125,4,34,64,331,4.97,4.96,4.98,4.99,4.94,4.98
+13960938,19196434,"2 Bedrooms/Private Entry/Private Bath, S Salem","Private room",NA,2,1,"2021-12-20",55,153,2.36,"Ward 7",NA,44.90361,-123.05791,3,30,20,45,75,165,4.88,4.93,4.94,4.95,4.95,4.97
+14077210,2666789,"Light filled Art Loft on Fairmount Hill","Entire home/apt",NA,NA,1,"2021-12-20",111,242,3.69,"Ward 7",NA,44.92325,-123.04947,2,30,16,16,18,30,4.98,5,5,4.99,4.97,4.94
+14556351,83848627,"Ben Lomond House","Entire home/apt",NA,4,1,"2021-12-20",307,100,1.54,"Ward 2",NA,44.91678,-123.03907,2,1125,24,52,79,328,4.82,4.86,4.65,4.96,4.94,4.79
+14967922,89181819,"5-star 4-Bedroom home near WIllamette University","Entire home/apt",NA,4,3,"2021-12-20",189,6,0.15,"Ward 7",NA,44.92076,-123.04577,3,1125,3,3,3,179,5,5,4.67,5,5,5
+15272064,49073704,"Vista Manor Peacock room. Queen bed ensuite bath.","Private room",NA,1,5,"2021-12-20",55,627,9.91,"Ward 2",NA,44.91144,-123.042,1,90,18,45,75,75,4.94,4.97,4.93,4.98,4.95,4.96
+15815105,49073704,"Vista Manor master suite, King bed ensuite bath.","Private room",NA,1,5,"2021-12-20",77,409,6.61,"Ward 2",NA,44.91053,-123.04181,1,1125,22,51,81,81,4.96,4.98,4.96,4.99,4.94,4.98
+16690039,3208932,"Bright Queen Room (+ large desk) in Central Salem","Private room",NA,1,3,"2021-12-20",38,235,3.91,"Ward 2",NA,44.9315,-123.01878,1,30,21,50,80,133,4.86,4.94,4.77,4.97,4.91,4.95
+17111184,10502090,"Century House Cedar Room with lots of space, light","Private room",NA,1,5,"2021-12-20",105,24,0.41,"Ward 2",NA,44.93432,-123.02128,2,1125,12,12,12,196,5,4.96,5,5,4.96,5
+17238122,102278503,"Pringle creek furnished flats","Entire home/apt",NA,1,3,"2021-12-20",182,4,0.27,"Ward 2",NA,44.92509,-123.03197,60,1125,18,48,78,353,4.25,4.5,3.75,4.5,4.5,4
+17238244,22605257,"1920s Cottage - Walk in the Park  19-104415-LI","Entire home/apt",NA,2,1,"2021-12-20",133,401,6.95,"Ward 7",NA,44.92769,-123.04669,1,1125,7,28,51,257,4.95,4.97,4.98,4.97,4.94,4.93
+17424096,35861426,"Cozy Bedroom in a townhouse","Private room",NA,1,1,"2021-12-20",47,13,0.23,"Ward 4",NA,44.86694,-123.03125,2,1125,10,40,70,345,5,4.92,4.85,5,4.67,5
+18654723,49211542,"Paxson House - Toscono Room","Private room",NA,1,1,"2021-12-20",75,7,0.13,"Ward 3",NA,44.90607,-123.0308,2,14,0,0,0,78,5,5,4.86,5,5,5
+19144944,133856626,"Country Garden Retreat","Entire home/apt",NA,1,1,"2021-12-20",80,221,4.13,"Ward 3",NA,44.88863,-122.95169,2,28,13,41,65,148,4.98,4.99,4.95,4.99,4.93,4.97
+19388806,42050514,"Cindy's Nook,  Suite, w/Private Entrance & Sauna","Private room",NA,1,1,"2021-12-20",85,261,4.81,"Ward 7",NA,44.91655,-123.04683,1,1125,0,2,2,200,4.95,4.98,5,4.97,4.94,4.93
+19468058,29091120,"Long Stays:  Clean Cozy Crazy Cool Living!","Entire home/apt",NA,1,1,"2021-12-20",99,31,0.59,"Ward 4",NA,44.87809,-123.03331,10,1125,0,0,0,77,4.94,5,4.94,5,4.94,4.9
+19532562,134427390,"Historic Cottage close to downtown for Eclipse","Entire home/apt",NA,1,1,"2021-12-20",1000,1,0.02,"Ward 1",NA,44.93868,-123.02154,2,6,30,60,90,365,5,5,5,5,5,5
+19703543,138834613,"In Eclipse Zone: Private Master Bedroom w/ Bath","Private room",NA,1,1,"2021-12-20",505,0,NA,"Ward 4",NA,44.8661,-123.01542,2,7,28,58,88,178,NA,NA,NA,NA,NA,NA
+19840044,17012934,"Sunnyslope Retreat - Private Entry, Fireplace & AC","Entire home/apt",NA,1,1,"2021-12-20",101,138,2.59,"Ward 7",NA,44.89607,-123.06258,3,28,16,28,45,133,4.99,5,5,4.99,4.94,4.96
+19983672,141740262,"Classic Town Home on 50 acres of wetlands","Private room",NA,1,1,"2021-12-20",65,1,0.02,"Ward 4",NA,44.85853,-123.02099,2,90,18,48,78,168,5,5,5,5,5,5
+20011950,2421461,"Private Room in Comfort Home","Private room",NA,1,2,"2021-12-20",90,1,0.02,"Ward 7",NA,44.89192,-123.06963,1,1125,19,49,60,60,5,5,4,5,5,5
+20014682,93510253,"**Private bedroom available SOLAR ECLIPSE","Private room",NA,1,2,"2021-12-20",301,0,NA,"Ward 2",NA,44.92134,-123.03794,2,1125,30,60,90,180,NA,NA,NA,NA,NA,NA
+20015604,93510253,"Private bedroom available for **ECLIPSE**","Private room",NA,1,2,"2021-12-20",249,1,0.02,"Ward 2",NA,44.9198,-123.03812,2,1125,29,59,89,89,5,5,5,5,5,5
+20035307,90246105,"Sweet private suite and more","Entire home/apt",NA,1,1,"2021-12-20",72,115,2.17,"Ward 1",NA,44.95033,-123.01447,2,30,0,0,0,164,4.93,4.95,4.97,4.96,4.94,4.96
+20072558,142659171,"Myrtle Cottage Guest House","Entire home/apt",NA,1,1,"2021-12-20",81,102,1.94,"Ward 8",NA,44.94082,-123.08049,3,90,0,0,0,261,4.8,4.88,4.88,4.91,4.92,4.84
+20194079,143799403,"Luxury condo available for eclipse!","Entire home/apt",NA,2,1,"2021-12-20",675,0,NA,"Ward 4",NA,44.86797,-123.01836,2,4,28,58,88,363,NA,NA,NA,NA,NA,NA
+20231503,49073704,"Vista Manor Elephant Room ensuite  bath, king bed.","Private room",NA,1,5,"2021-12-20",55,221,4.17,"Ward 2",NA,44.91154,-123.04225,1,90,14,42,72,72,4.93,4.96,4.93,4.99,4.96,4.92
+20232827,144041038,"Homebydesign4u","Entire home/apt",NA,3,1,"2021-12-20",180,120,2.37,"Ward 3",NA,44.89761,-123.04809,2,1125,12,39,61,147,4.95,4.95,4.92,4.98,4.9,4.91
+20304963,89181819,"Handsome Mini-suite near Willamette University","Private room",NA,1,3,"2021-12-20",80,5,0.09,"Ward 7",NA,44.92055,-123.04557,2,1125,12,42,72,138,5,5,4.8,5,5,5
+20329857,144680856,"COZY PRIVATE SOLAR ECLIPSE DESTINATION - AUG 18-22","Entire home/apt",NA,1,1,"2021-12-20",1000,0,NA,"Ward 2",NA,44.92015,-123.03253,2,5,30,60,90,365,NA,NA,NA,NA,NA,NA
+20329904,145045803,"Immaculate and Quiet Home Centrally Located","Entire home/apt",NA,5,1,"2021-12-20",600,31,0.71,"Ward 3",NA,44.89836,-123.02931,3,6,23,53,83,347,4.97,5,5,5,4.94,4.87
+20332534,78623911,"Wine country home nestled in the West Salem hills.","Entire home/apt",NA,3,1,"2021-12-20",195,51,1.42,"Ward 8",NA,44.95233,-123.08063,2,120,23,53,83,186,4.98,4.98,4.94,4.94,4.96,4.84
+20332895,28103304,"West Salem House in the Hills","Entire home/apt",NA,3,1,"2021-12-20",150,66,1.53,"Ward 8",NA,44.94164,-123.07127,2,5,0,0,0,57,4.98,4.98,4.83,4.95,4.94,4.97
+20354050,67222384,"Eclectic Private Guest Qtrs Oregon 3D Art w/Spa","Private room",NA,1,2,"2021-12-20",136,70,1.45,"Ward 5",NA,44.99369,-122.98669,1,1125,30,60,90,365,4.77,4.91,4.77,4.94,4.84,4.7
+20442080,145860318,"$1000/room, Premium Home for Eclipse Viewing","Private room",NA,3,1,"2021-12-20",3000,0,NA,"Ward 8",NA,44.93919,-123.08806,1,4,29,59,89,364,NA,NA,NA,NA,NA,NA
+20455186,146014773,"Golf course community 3 bedroom 2 bath - eclipse.","Entire home/apt",NA,3,1,"2021-12-20",750,1,0.02,"Ward 4",NA,44.86756,-123.03891,1,1125,29,59,89,89,4,4,4,5,4,1
+20463851,97475069,"Downtown Studio w/ Rooftop Patio","Entire home/apt",NA,1,1,"2021-12-20",130,36,1.44,"Ward 1",NA,44.94275,-123.03786,1,1125,23,53,83,83,4.78,4.86,4.67,4.81,4.89,4.64
+20494604,89181819,"Sunlit Mini-Suite  near Willamette University","Private room",NA,1,3,"2021-12-20",75,1,0.02,"Ward 7",NA,44.92067,-123.04703,2,1125,12,42,72,130,5,NA,5,NA,NA,NA
+20537027,62669634,"Eclipse viewing","Private room",NA,1,1,"2021-12-20",175,0,NA,"Ward 7",NA,44.87153,-123.07813,2,3,30,60,90,365,NA,NA,NA,NA,NA,NA
+20555651,49073704,"Vista Manor butterfly room, King bed/ private bath","Private room",NA,1,5,"2021-12-20",47,41,0.78,"Ward 2",NA,44.91074,-123.04313,1,1125,3,3,3,3,4.98,5,4.98,4.98,4.95,4.98
+20638909,121688409,"Historic & Charming Salem Home w/Mill Creek Views!","Entire home/apt",NA,2,2,"2021-12-20",207,4,0.09,"Ward 1",NA,44.93764,-123.01688,2,1125,17,47,62,296,5,5,5,3,4.5,4
+20843302,121661305,"*Quiet Residential Home For Traveling Nurses","Private room",NA,1,2,"2021-12-20",32,12,0.24,"Ward 4",NA,44.87962,-123.01718,7,1125,0,0,0,172,5,5,5,5,5,5
+21552585,67222384,"Turn of the Century Charmer Oregon 3D Chainsaw Art","Private room",NA,1,2,"2021-12-20",82,26,0.53,"Ward 5",NA,44.99363,-122.9864,2,1125,24,54,84,359,4.88,4.96,4.77,4.96,4.73,4.77
+22215712,161312832,"Private bedroom close to I-5","Private room",NA,1,1,"2021-12-20",85,256,5.28,"Ward 4",NA,44.87854,-123.03973,1,4,30,59,89,89,4.82,4.91,4.84,4.93,4.9,4.93
+23002857,10502090,"Century House apartment in the heart of Salem","Private room",NA,3,5,"2021-12-20",250,0,NA,"Ward 2",NA,44.93357,-123.02107,3,1125,23,51,74,293,NA,NA,NA,NA,NA,NA
+23234197,9643500,"Convenient, modern family home SE Salem near I5","Entire home/apt",NA,2,1,"2021-12-20",187,90,1.99,"Ward 4",NA,44.87183,-123.03444,2,30,19,45,75,75,4.9,4.92,4.8,4.93,4.9,4.84
+23251563,52551969,"Country Charm Near Downtown | Private Yard","Entire home/apt",NA,3,1,"2021-12-20",180,14,0.31,"Ward 2",NA,44.93739,-123.01231,3,40,18,48,78,168,4.93,5,4.79,5,4.93,4.71
+23320790,121661305,"Quiet Residential Home For Traveling Nurses","Private room",NA,1,2,"2021-12-20",32,4,0.15,"Ward 4",NA,44.87892,-123.01769,7,1125,3,3,28,303,5,5,5,5,5,5
+24019630,10502090,"Century House Maple Suite 18-102571 LI","Private room",NA,2,5,"2021-12-20",155,18,0.4,"Ward 2",NA,44.93373,-123.01971,2,1125,25,53,76,296,4.94,5,4.89,5,4.89,4.94
+24155499,32693061,"Restful and Clean Guest Studio (monthly discount)","Entire home/apt",NA,1,1,"2021-12-20",96,315,7.02,"Ward 1",NA,44.94522,-123.01158,2,1125,2,17,47,59,5,4.98,4.99,4.99,4.96,4.96
+24780208,49073704,"Guest Cottage at Vista Manor","Entire home/apt",NA,1,5,"2021-12-20",113,398,9,"Ward 2",NA,44.91053,-123.04313,1,1125,9,39,69,69,4.93,4.94,4.87,4.97,4.94,4.92
+25425938,190791737,"Charming Wilmette Valley hideaway","Entire home/apt",NA,4,1,"2021-12-20",350,15,0.35,"Ward 4",NA,44.87567,-123.00046,3,5,18,48,78,335,4.86,4.86,4.79,5,4.93,4.64
+25873321,89498854,"Ground floor guest suite: city, woods, wineries","Entire home/apt",NA,1,1,"2021-12-20",91,102,2.4,"Ward 7",NA,44.89687,-123.07442,2,1125,1,1,3,213,4.99,4.99,4.96,4.99,4.97,4.99
+27631253,132897916,"Classic Cottage Bungalow","Private room",NA,1,2,"2021-12-20",75,229,5.6,"Ward 1",NA,44.95262,-123.01072,1,1125,17,44,69,337,4.95,4.94,4.96,4.97,4.97,4.93
+29382038,221348317,"South Salem - Home Away From Home","Entire home/apt",NA,3,2,"2021-12-20",176,169,4.41,"Ward 4",NA,44.87878,-123.04529,2,1125,20,48,75,155,4.98,4.95,4.96,4.96,4.91,4.93
+29730707,132897916,"Cozy Cellar Retreat in 1900's Bungalow","Entire home/apt",NA,2,2,"2021-12-20",135,21,0.56,"Ward 1",NA,44.93382,-123.04491,90,1125,0,0,0,174,4.9,5,5,5,4.71,4.95
+30340285,17219224,"Beautiful Suite Near Downtown & Bush Park","Entire home/apt",NA,1,2,"2021-12-20",55,44,1.19,"Ward 2",NA,44.92324,-123.03954,30,365,5,14,14,233,4.8,4.89,4.82,4.93,4.93,4.8
+30442754,228558574,"Willamette Valley Bungalow in Salem, Oregon","Entire home/apt",NA,1,1,"2021-12-20",169,67,1.85,"Ward 7",NA,44.91814,-123.04716,2,80,19,49,79,351,4.84,4.9,4.81,4.94,4.88,4.66
+30856834,142557811,"Gorgeous Historical House, Walk to Downtown Salem","Entire home/apt",NA,3,2,"2021-12-20",327,61,1.69,"Ward 2",NA,44.93366,-123.04112,2,29,26,54,84,246,4.93,4.97,4.97,4.93,5,4.87
+31005128,142557811,"Near Downtown Private Guest House Covered Parking!","Entire home/apt",NA,1,2,"2021-12-20",135,77,2.13,"Ward 2",NA,44.93266,-123.0124,1,29,26,56,86,98,4.91,4.94,4.96,4.96,4.81,4.82
+31907842,18601259,"Central Salem Suite with Kitchen","Entire home/apt",NA,2,1,"2021-12-20",92,222,6.54,"Ward 1",NA,44.94926,-123.02469,1,1125,17,30,30,30,4.89,4.94,4.95,4.91,4.92,4.89
+32018098,240057378,"Oregon Winemakers Beautiful Colonial in Salem","Entire home/apt",NA,4,1,"2021-12-20",299,75,2.36,"Ward 8",NA,44.9706,-123.07798,2,1125,18,46,71,322,4.95,4.89,4.97,4.93,4.87,4.79
+32133603,142420980,"Creekside View - Large 2 Bedroom 2 Bath Condo","Entire home/apt",NA,2,6,"2021-12-20",155,116,3.33,"Ward 1",NA,44.94581,-123.03162,1,81,4,17,42,295,4.78,4.9,4.82,4.92,4.76,4.81
+32318245,84296528,"Croisan Creek Cottage, South Salem","Entire home/apt",NA,3,1,"2021-12-20",141,88,2.58,"Ward 7",NA,44.90968,-123.07327,2,1125,2,2,2,156,4.67,4.76,4.61,4.83,4.85,4.72
+32640764,99619504,"Cozy and Convenient Hayesville Home","Entire home/apt",NA,4,1,"2021-12-20",257,65,1.97,"Ward 5",NA,44.98281,-122.96014,2,1125,0,0,0,118,4.91,4.95,4.94,5,4.97,4.88
+33344083,138796271,"A Willamette Valley Wine Retreat","Private room",NA,1,1,"2021-12-20",49,34,1.08,"Ward 3",NA,44.89717,-123.02896,2,20,23,53,83,358,4.97,4.97,4.97,5,5,4.91
+33528630,88052328,"The Garage","Entire home/apt",NA,NA,1,"2021-12-20",76,223,6.95,"Ward 1",NA,44.9472,-123.02004,1,15,11,37,67,316,4.98,4.96,4.98,4.98,4.96,4.95
+33564568,11493566,"Private room with movie projector and 27"" computer","Private room",NA,1,1,"2021-12-20",49,82,2.52,"Ward 2",NA,44.9359,-123.01263,4,1125,19,49,79,161,4.85,4.96,4.91,4.96,4.89,4.9
+33901803,9817410,"The Little Blue House (in central Salem, Oregon)","Entire home/apt",NA,1,1,"2021-12-20",106,90,3.32,"Ward 1",NA,44.93796,-123.02121,2,1125,11,29,57,274,4.97,4.97,4.94,4.99,4.96,4.93
+34158635,148795009,"South Salem Spacious Room.","Private room",NA,1,1,"2021-12-20",40,27,0.87,"Ward 2",NA,44.92031,-123.03653,3,1125,0,0,0,262,5,5,5,5,5,5
+34604471,8255821,"The Studio on Cottage","Entire home/apt",NA,NA,1,"2021-12-20",69,26,3.17,"Ward 1",NA,44.95002,-123.02769,1,14,0,0,0,0,5,5,4.96,5,5,5
+34614134,261141361,"Quiet, Licensed W. Salem Room for Travelers","Private room",NA,1,2,"2021-12-20",46,20,0.64,"Ward 8",NA,44.95061,-123.07971,7,180,0,27,57,147,4.9,4.95,4.85,5,4.85,4.9
+36806045,276655122,"1941 Craftsman in Salem  w/ Private Backyard Patio","Entire home/apt",NA,3,1,"2021-12-20",150,41,1.39,"Ward 1",NA,44.94938,-123.00607,1,31,0,0,0,20,4.85,4.93,4.93,4.95,4.61,4.83
+37157862,142420980,"Large 2 Bedroom 1 Bath Condo with a Creek View","Entire home/apt",NA,2,6,"2021-12-20",91,128,4.38,"Ward 1",NA,44.94732,-123.03173,1,120,0,0,19,281,4.76,4.91,4.88,4.97,4.81,4.73
+37723906,142420980,"Large Creek View 2 Bedroom 2 Bath Condo","Entire home/apt",NA,2,6,"2021-12-20",153,88,3.09,"Ward 1",NA,44.94644,-123.03278,1,45,0,0,0,197,4.8,4.83,4.86,4.97,4.82,4.81
+37815385,138914826,"Cozy, convenient room in Salem","Private room",NA,1,1,"2021-12-20",35,109,4.26,"Ward 1",NA,44.94267,-123.01436,2,7,0,0,0,0,4.81,4.94,4.72,4.95,4.95,4.87
+38976509,183514,"The Bunkhouse","Entire home/apt",NA,1,1,"2021-12-20",35,17,0.69,"Ward 1",NA,44.94348,-123.01219,2,1125,30,60,90,180,4.71,4.88,4.82,4.88,4.88,4.76
+38981095,104054845,"Cozy, close in stay!","Private room",NA,1,2,"2021-12-20",50,21,0.9,"Ward 2",NA,44.92628,-123.03406,2,30,0,0,0,0,4.95,4.86,4.95,5,5,5
+39128949,283063,"Mid-Century-Modern w/Views The Mulberry House","Entire home/apt",NA,3,2,"2021-12-20",232,24,0.97,"Ward 7",NA,44.91163,-123.06115,4,135,1,30,60,150,4.96,4.88,4.96,4.96,4.96,5
+39736719,283063,"Mulberry Drive - Sunlight home with valley views.","Entire home/apt",NA,1,2,"2021-12-20",75,0,NA,"Ward 7",NA,44.91275,-123.06237,5,135,0,1,31,121,NA,NA,NA,NA,NA,NA
+39969910,20726798,"Quiet Updated Duplex, Great Location","Entire home/apt",NA,1,1,"2021-12-20",95,41,1.8,"Ward 2",NA,44.92886,-123.04466,2,1125,2,3,9,235,4.95,4.98,5,4.98,4.88,4.9
+40070743,143942772,"Friends &  Family Peaceful  Palace Home Salem, OR","Entire home/apt",NA,3,1,"2021-12-20",158,45,1.8,"Ward 5",NA,44.9628,-123.01897,2,30,19,49,79,238,4.82,4.78,4.96,4.93,4.64,4.87
+40861468,27758890,"Bombshell basement","Entire home/apt",NA,1,1,"2021-12-20",120,10,0.43,"Ward 7",NA,44.91749,-123.0542,1,90,21,51,81,348,4.9,4.7,4.7,4.9,4.9,4.9
+41338909,58210782,"Englewood Loft","Entire home/apt",NA,NA,1,"2021-12-20",85,44,1.92,"Ward 1",NA,44.94443,-123.01453,4,21,17,47,77,77,5,5,5,5,5,4.98
+42100848,1706855,"Charming Chalet","Entire home/apt",NA,2,1,"2021-12-20",125,17,0.8,"Ward 7",NA,44.90742,-123.07404,2,60,0,0,19,109,4.71,4.71,4.59,4.94,5,4.82
+42243993,142420980,"LARGE Upstairs 2 Bed 2 Bath condo Creek View!","Entire home/apt",NA,2,6,"2021-12-20",150,109,5.27,"Ward 1",NA,44.94576,-123.03004,1,120,9,32,58,320,4.78,4.89,4.83,4.96,4.61,4.78
+42472856,104054845,"Quaint room in Bush Park classic","Private room",NA,1,2,"2021-12-20",45,21,2.11,"Ward 2",NA,44.92469,-123.03397,2,50,0,1,1,1,4.76,4.9,4.86,4.86,4.86,4.9
+42796228,4923044,"Long term stay discount & perfect to work remote.","Entire home/apt",NA,3,1,"2021-12-20",200,42,1.96,"Ward 5",NA,44.95474,-122.99237,3,1125,6,23,49,49,4.76,4.71,4.83,4.95,4.6,4.52
+42817285,341037787,"Salem's R & R Home Near Downtown, Air Conditioning","Entire home/apt",NA,3,1,"2021-12-20",175,25,1.44,"Ward 2",NA,44.93016,-123.01796,28,1125,10,39,69,344,4.88,4.92,4.96,4.92,4.76,4.8
+42818351,22810342,"Luxurious modern retreat in Downtown w/ pool","Entire home/apt",NA,1,1,"2021-12-20",92,19,0.89,"Ward 1",NA,44.94835,-123.02339,1,360,0,0,4,205,4.68,4.79,4.95,5,4.79,4.74
+43402510,261141361,"Quiet, comfy, licensed West Salem room to stay.","Private room",NA,1,2,"2021-12-20",57,4,0.21,"Ward 8",NA,44.94949,-123.08107,14,180,3,3,3,262,4.75,5,5,5,5,5
+43739946,7077451,"Tara's one bedroom, private entry in Cottage Home","Private room",NA,1,1,"2021-12-20",55,37,2.07,"Ward 2",NA,44.93958,-123.01201,1,1125,13,33,63,147,4.95,5,4.89,4.95,4.95,4.89
+44954576,76662611,"Spacious Bright Townhome in Heart of Wine Country","Entire home/apt",NA,3,1,"2021-12-20",130,42,2.64,"Ward 4",NA,44.86902,-123.01757,1,1125,21,40,59,138,4.67,4.83,4.62,4.98,4.86,4.81
+45303389,165330582,"NW Pine Hills Estate🌲 (Long Stairway To Mainfloor)","Entire home/apt",NA,4,1,"2021-12-20",436,92,6.23,"Ward 8",NA,44.9488,-123.08238,1,1125,23,52,82,328,4.78,4.86,4.95,4.98,4.89,4.82
+45791126,78391796,"Spacious gem + AC","Entire home/apt",NA,4,1,"2021-12-20",175,65,4.55,"Ward 3",NA,44.88678,-123.01629,3,28,8,13,24,24,4.91,4.97,4.91,4.94,4.88,4.89
+45960800,5452115,"Private apartment close to food and downtown!","Entire home/apt",NA,1,1,"2021-12-20",200,0,NA,"Ward 1",NA,44.96053,-123.02794,1,1125,17,47,77,167,NA,NA,NA,NA,NA,NA
+46030321,126369803,"Tiny trailer, smaller than it looks.","Entire home/apt",NA,NA,1,"2021-12-20",40,0,NA,"Ward 1",NA,44.9447,-123.00881,1,2,29,59,89,89,NA,NA,NA,NA,NA,NA
+46299140,3705464,"Lovely Master bedroom, bathroom, 2nd room/office","Private room",NA,1,1,"2021-12-20",38,4,0.34,"Ward 7",NA,44.91709,-123.05207,30,1125,0,17,47,137,5,5,5,5,5,5
+46883743,378740541,"Close to I-5 and easy to shopping and restaurants","Entire home/apt",NA,3,1,"2021-12-20",211,34,2.83,"Ward 4",NA,44.88341,-123.00552,1,1125,1,31,61,103,4.82,4.88,4.94,5,4.91,4.88
+46898377,378870814,"Modern accommodations in Historic Downtown Salem","Private room",NA,1,2,"2021-12-20",158,4,0.57,"Ward 1",NA,44.93511,-123.01943,7,1125,0,26,56,146,5,5,5,5,5,5
+47091813,51012505,"Lower Apartment in Historic District Near Hospital","Entire home/apt",NA,1,3,"2021-12-20",83,14,1.18,"Ward 1",NA,44.93876,-123.02266,10,365,0,18,48,138,4.86,4.86,4.86,4.93,4.93,4.71
+47185169,381131161,"Fully-Furnished Sunny Guesthouse","Entire home/apt",NA,1,1,"2021-12-20",60,47,3.9,"Ward 7",NA,44.92908,-123.04719,1,30,19,38,65,65,4.89,4.94,4.91,4.96,4.81,4.91
+47308994,16551601,"Willamette Valley Wine Country Getaway!","Entire home/apt",NA,1,1,"2021-12-20",175,10,2.21,"Ward 8",NA,44.94471,-123.0856,1,1125,20,50,80,352,5,5,5,4.9,4.8,4.8
+47958424,102278503,"Unique 1 bedroom  furnished flat near Bush Park","Entire home/apt",NA,1,3,"2021-12-20",83,1,0.59,"Ward 2",NA,44.92637,-123.03363,50,365,8,38,68,68,5,4,5,5,4,5
+47987577,51012505,"Upper Apartment in Historic District Near Hospital","Entire home/apt",NA,1,3,"2021-12-20",90,4,0.71,"Ward 1",NA,44.93742,-123.02176,2,1125,12,12,12,81,4.75,5,5,4.75,4.75,4.75
+48000304,12285441,"1950's Charm-Great for long/short term. Come stay!","Entire home/apt",NA,2,1,"2021-12-20",96,26,2.58,"Ward 2",NA,44.91716,-123.03851,7,1125,0,0,6,281,4.96,4.96,4.88,5,5,4.96
+48138030,45044784,"Amazing! private entry, farmhouse chic, great vibe","Entire home/apt",NA,1,2,"2021-12-20",92,41,4.59,"Ward 7",NA,44.91103,-123.06537,1,1125,14,44,74,245,5,4.98,5,5,4.98,5
+48384939,57072094,"Private getaway in a beautiful  neighborhood","Entire home/apt",NA,1,1,"2021-12-20",110,10,1.04,"Ward 8",NA,44.94284,-123.0837,2,1125,30,60,90,360,4.9,4.9,5,5,4.9,5
+48546846,348921397,"The Grace House - Guest Suite","Entire home/apt",NA,1,1,"2021-12-20",148,11,1.71,"Ward 1",NA,44.9508,-123.01147,3,1125,30,60,90,362,5,5,5,4.91,4.91,4.91
+48551936,51689419,"Master Bedroom w/private bathroom/shower & view","Private room",NA,1,4,"2021-12-20",89,32,3.72,"Ward 1",NA,44.94507,-123.01205,1,1125,30,60,90,180,4.78,4.88,4.94,4.75,4.97,4.75
+48564869,391829961,"700Mbps+ Wifi | Near Hospital | Clean | Work Area","Entire home/apt",NA,2,3,"2021-12-20",116,4,0.59,"Ward 2",NA,44.93195,-123.02164,30,1125,10,10,10,180,5,5,5,5,4.75,4.75
+49034912,120966503,"The Garden Flat at Botaneity, Oregon wine country","Entire home/apt",NA,1,1,"2021-12-20",120,1,1,"Ward 8",NA,44.96054,-123.06537,2,9,15,37,67,157,5,5,5,5,5,5
+49506192,378870814,"Remodeled Spacious Basement In historic downtown","Entire home/apt",NA,2,2,"2021-12-20",169,23,3.15,"Ward 1",NA,44.93647,-123.02104,2,1125,0,17,47,315,5,4.96,5,5,4.91,4.87
+49860967,402117543,"A Beautiful Private Space","Entire home/apt",NA,1,1,"2021-12-20",90,5,0.96,"Ward 6",NA,44.95425,-122.9783,1,30,0,0,7,281,5,4.8,5,5,4.4,4.8
+49922598,121688409,"NEW! Beautiful West Salem Getaway w/ Private Yard!","Entire home/apt",NA,3,2,"2021-12-20",212,3,0.44,"Ward 1",NA,44.9434,-123.06362,3,1125,4,34,64,327,5,5,5,5,5,5
+50066652,221348317,"South Salem - Home Away from Home #2 gold","Entire home/apt",NA,3,2,"2021-12-20",174,11,2.92,"Ward 4",NA,44.87843,-123.04644,2,1125,22,52,82,82,4.91,4.91,4.82,4.82,4.91,4.91
+50115199,240317686,"Apartment near Downtown Salem Riverfront","Shared room",NA,1,1,"2021-12-20",75,0,NA,"Ward 1",NA,44.94541,-123.02139,1,2,29,59,89,364,NA,NA,NA,NA,NA,NA
+50119734,404415327,"One Mile Stroll to Capitol! JeffersonStHome&Garden","Entire home/apt",NA,3,1,"2021-12-20",245,0,NA,"Ward 1",NA,44.95337,-123.02079,2,365,18,48,78,347,NA,NA,NA,NA,NA,NA
+50349038,391829961,"W/D in Unit | 700Mbps+ Wifi | Work Here | Peaceful","Entire home/apt",NA,2,3,"2021-12-20",116,1,1,"Ward 7",NA,44.90147,-123.05106,30,1125,7,25,55,249,5,5,5,5,5,5
+50447645,407589371,"Jefferson Garden Cottage NE Salem Oreogn","Entire home/apt",NA,3,1,"2021-12-20",179,9,1.84,"Ward 1",NA,44.952446,-123.016159,2,90,20,40,65,283,4.89,5,4.89,4.89,5,4.89
+50484701,407581863,"The Heart of Downtown Living 369 Court Salem, Ore.","Entire home/apt",NA,2,12,"2021-12-20",144,22,3.75,"Ward 1",NA,44.93751,-123.02567,2,90,22,42,72,334,4.91,4.91,4.91,5,4.91,4.68
+50599685,407581863,"New York Style Loft In Historic Downtown Salem OR.","Entire home/apt",NA,2,12,"2021-12-20",185,8,1.38,"Ward 1",NA,44.941975,-123.039902,2,90,20,47,77,337,5,5,5,5,5,4.88
+50646670,407581863,"Angry Owl Hideout, 595 Tillman Salem Oregon 97302","Entire home/apt",NA,1,12,"2021-12-20",80,4,0.88,"Ward 2",NA,44.91584,-123.0394,30,275,21,51,81,356,5,5,5,5,5,5
+50664432,51689419,"Beautiful Room with Queen bed  & back yard view.","Private room",NA,1,4,"2021-12-20",79,1,0.19,"Ward 1",NA,44.94373,-123.01299,1,1125,30,60,90,365,1,1,1,1,5,2
+50664808,407581863,"Where's Waldo Wood Cabin 720 Waldo Ave SE Salem OR","Entire home/apt",NA,1,12,"2021-12-20",150,2,0.51,"Ward 2",NA,44.91694,-123.0397,2,365,19,49,79,333,5,5,5,5,4.5,4.5
+50665003,51689419,"Quiet Peaceful Room w/Twin Bed, Desk & Cold A/C","Private room",NA,1,4,"2021-12-20",74,2,0.35,"Ward 1",NA,44.94385,-123.01336,1,1125,30,60,90,365,2.5,2,3,1.5,3.5,2.5
+50673630,10502090,"Century House Maple Room bright and spacious","Private room",NA,1,5,"2021-12-20",110,1,0.19,"Ward 2",NA,44.93246,-123.02032,2,1125,25,53,76,193,5,5,5,5,5,5
+50778095,407581863,"""Church Street Charm"" 1895 Church SE Salem Oregon","Entire home/apt",NA,3,12,"2021-12-20",229,8,1.47,"Ward 2",NA,44.931149,-123.034988,2,365,0,0,0,130,5,5,5,5,5,5
+50877729,407581863,"240 State St Loft B Salem OR ""TIGER STATION LOFTS""","Entire home/apt",NA,2,12,"2021-12-20",144,4,1.6,"Ward 1",NA,44.940449,-123.041534,2,90,2,2,21,293,4.75,5,5,5,5,4.75
+50919816,258249548,"Beautifully Renovated Cottage-Like Hide-a-way!","Entire home/apt",NA,2,1,"2021-12-20",150,9,2.37,"Ward 5",NA,44.96665,-122.99914,2,365,18,44,74,346,4.89,5,5,4.78,4.67,4.78
+50996786,391829961,"6 min→Hospital/Downtown | W/D | 30+ days | Quiet","Entire home/apt",NA,2,3,"2021-12-20",100,1,1,"Ward 2",NA,44.90979,-123.02938,30,1125,30,60,90,270,5,5,5,5,5,4
+51004299,407581863,"Birchwood Glen Townhome 1390 Chemeketa St Salem OR","Entire home/apt",NA,2,12,"2021-12-20",154,9,2,"Ward 1",NA,44.93875,-123.0244,2,90,11,41,71,336,4.78,4.89,4.78,5,5,4.78
+51019464,407581863,"2755 Nola SE Salem,  Nola’s Nirvana “Urban Oasis”","Entire home/apt",NA,3,12,"2021-12-20",176,3,0.74,"Ward 2",NA,44.913837,-123.038841,2,90,0,0,0,0,4.67,4.67,4.33,5,5,4.67
+51021341,407581863,"240 State St NE Salem Oregon""TIGER STATION LOFT A""","Entire home/apt",NA,2,12,"2021-12-20",144,3,0.85,"Ward 1",NA,44.94071,-123.0426,2,90,4,12,22,278,5,5,5,5,5,4.67
+51022955,407581863,"BunkHouse Retreat at Minto-Brown Island","Entire home/apt",NA,1,12,"2021-12-20",83,13,2.83,"Ward 7",NA,44.91817,-123.06364,2,90,21,51,81,345,4.38,4.62,4.54,4.85,4.77,4.62
+51023356,407581863,"Wilbur where's the beach? 1065 Wilbur St SE Salem","Entire home/apt",NA,3,12,"2021-12-20",195,0,NA,"Ward 2",NA,44.92507,-123.03261,2,90,0,0,0,106,NA,NA,NA,NA,NA,NA
+51104836,45044784,"Farmhouse Chic w/ 2 private rooms and bath!","Private room",NA,1,2,"2021-12-20",88,8,1.76,"Ward 7",NA,44.91048,-123.06621,1,1125,20,50,80,197,5,5,5,5,4.88,4.88
+51268205,124085149,"Beautiful 3-bedroom Salem Townhouse near I-5","Entire home/apt",NA,3,1,"2021-12-20",131,9,3.91,"Ward 4",NA,44.86999,-123.0196,3,1125,17,22,28,107,4.78,5,4.78,4.78,4.67,5
+51332824,299107336,"Hidden Treasure - A Private Guest Suite","Entire home/apt",NA,1,1,"2021-12-20",88,26,5.61,"Ward 8",NA,44.94969,-123.08761,2,1125,19,49,73,340,5,5,5,5,4.85,4.88
+51580229,102278503,"Affordable adorable 60's vibe furnished flat.","Entire home/apt",NA,1,3,"2021-12-20",68,0,NA,"Ward 2",NA,44.92718,-123.03341,60,365,0,0,18,293,NA,NA,NA,NA,NA,NA
+51773506,419419268,"Great one bedroom in very nice neighborhood","Private room",NA,1,2,"2021-12-20",70,7,1.84,"Ward 4",NA,44.86725,-123.04245,2,90,29,59,89,364,4.57,4.57,4.86,4.86,4.86,4.43
+51783712,419419268,"Marie's Place","Private room",NA,1,2,"2021-12-20",60,8,2.11,"Ward 4",NA,44.86773,-123.04252,2,1125,16,46,76,351,4.63,4.75,4.75,4.88,4.63,5
+51909986,142420980,"Lovely 1 Bedroom Creekside Condo Near Downtown","Entire home/apt",NA,1,6,"2021-12-20",75,1,1,"Ward 1",NA,44.94655,-123.03186,30,1125,1,1,1,127,5,5,5,5,5,5
+52089785,241101659,"The Villa- 3 bedroom 1 bath, Hilltop Poolhouse","Entire home/apt",NA,3,1,"2021-12-20",125,12,8,"Ward 8",NA,44.93531,-123.07829,1,1125,12,42,66,140,4.75,4.5,5,5,4.92,4.92
+52092873,353152177,"Modern Private Townhome Near the Heart of Salem!","Entire home/apt",NA,2,1,"2021-12-20",176,4,1.67,"Ward 4",NA,44.86815,-123.01828,2,1125,21,51,81,247,4.25,5,3.5,4.5,5,4
+52354445,142420980,"Upstairs 2 Bed 1 Bath Condo with Creek View!","Entire home/apt",NA,2,6,"2021-12-20",115,4,2.73,"Ward 1",NA,44.94558,-123.03121,1,1125,3,3,3,257,5,5,5,5,5,5
+52579551,425590949,"Cozy and private 2 bedroom 1 bath accessory house.","Entire home/apt",NA,2,1,"2021-12-20",60,0,NA,"Ward 5",NA,44.95646,-123.00103,30,365,0,17,47,322,NA,NA,NA,NA,NA,NA
+52685196,17219224,"Cozy Boho Cottage close to downtown and hospital","Entire home/apt",NA,2,2,"2021-12-20",105,1,0.86,"Ward 2",NA,44.93501,-123.01011,28,365,0,12,42,317,5,5,5,5,5,5
+53256374,51012505,"Apartment in Historic District Near Hospital-Mid","Entire home/apt",NA,2,3,"2021-12-20",140,1,0.83,"Ward 1",NA,44.93719,-123.02298,10,365,0,18,48,138,5,5,4,5,5,5
+53387368,95636395,"Simple n' Cozy 2 Bedroom Condominium","Entire home/apt",NA,2,1,"2021-12-20",85,0,NA,"Ward 8",NA,44.96508,-123.05636,30,365,2,2,21,296,NA,NA,NA,NA,NA,NA
+53481782,407581863,"1922 Vintage Charm at 1085 16th St. NE, Salem, OR","Entire home/apt",NA,3,12,"2021-12-20",176,0,NA,"Ward 1",NA,44.946331,-123.016449,2,90,25,55,85,324,NA,NA,NA,NA,NA,NA
+53546584,386940608,"The Iris Room","Private room",NA,1,1,"2021-12-20",44,3,3,"Ward 2",NA,44.92534,-123.03134,1,10,24,54,82,292,5,5,4.67,5,4.67,5

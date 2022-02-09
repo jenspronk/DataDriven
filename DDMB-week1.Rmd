@@ -1,0 +1,459 @@
+---
+title: "Data Driven Decision-Making in Business"
+subtitle: "DDMB IBA 2022: Week 1"
+author: "Fill in all student names and team number"
+date: "Last compiled on `r Sys.Date()`"
+output: pdf_document
+---
+```{css, echo=FALSE}
+.colorCode {
+background-color: #ff5a5f
+}
+```
+
+Here I set the directory, please change this to the folder in which you store your files and R project!
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = 'C:/Users/Gebruiker/Desktop/demo_DDMB')
+```
+
+# 0. Get ready
+
+Before you start, set up your environment. Choose a working directory (i.e. folder) that makes sense, and make sure that everytime you start a new assignment, you clean out your environment:
+-  `getwd()` to check your working directory
+- `setwd()` to change working directory
+- `?setwd` to learn more
+
+*It is very important you download the Rmarkdown file in this directory, and do NOT change its name! Use this location to store your R project. The data file should be the same folder. Write your code inside the functions you'll find below.Do NOT delete these functions!*
+
+Please see my instruction video on [how to set up a working directory and using Rproject](https://www.youtube.com/watch?v=iwNo4H0M8VA). In this video you can learn more about [Rmarkdown](https://www.youtube.com/watch?v=xccC42Ojwg8).
+
+Below you can see a R chunk in which I load tinytex library to knit (install this package first!), check my directory and empty my environment.
+
+```{r}
+library(tinytex)
+getwd() # check working directory
+rm(list=ls()) 
+```
+
+*Note*: you can type your R commands below the # comment line. Feel free to add or remove # comment lines to make the code clearer. Each chunk can be executed separately. Run the commands by the green arrow on the right of the R chunk. You will see the answer below your code (see the example below). If it doesn't run, you made a mistake in your code.
+
+## Example working with Rmd file
+```{r}
+# here i create two random variables
+x <- rnorm(100)
+y <- rnorm(100)
+# here i inspect these variables
+summary(x)
+summary(y)
+# and plot them
+plot(x,y, col="red")
+```
+
+## Handing in the assignment and your solutions
+
+By the end of the week you are required to hand in this .Rmd file **as a pdf** and **as a .r File**. To do this, you need to `Knit` the document (see on top to your left next to the save button). The resulting pdf file has to be handed in via canvas. We will inspect the quality of the R code in this file. Note that your code will be checked on plagiarism.
+
+\textcolor{red}{Next to your R markdown file, hand in your answers via the excel sheet} (do this for all questions!). You can find the excel sheet in folder Assignment/Week1 on canvas. Your solutions will be automatically graded, so be precise with numbers! I will check on three decimals. Fill in your solutions on the `INPUT` sheet, but check them via the `OUTPUT` sheet. 
+
+Please delete the lines following `0. Get Ready` from the .Rmd document before you hand in your solutions. Get yourself used to work with relative paths, that means that you need to think about a folder structure to work from. See lecture slides on how to set-up workflow!
+
+# 1. Explore 
+In this first assignment, you are required to make certain steps in order to get acquainted with the datafile that you will also analyze for your individual report. You will analyze [Airbnb data](http://insideairbnb.com/get-the-data.html). Everyone selects Salem OR (e.g. Salem in Oregon, USA) for this first week's assignment. This data can be found in canvas > files > assignment > assignment 1. For the individual report I ask you to choose another city (see [spreadsheet](https://docs.google.com/spreadsheets/d/1YxkH9qV6sF2_N3v4ZK6c-l01cVmen8eyYeyFvEnrLiU/edit?usp=sharing) for which cities are already taken). Make sure your code is general enough so you can replicate the code for the assignment.
+
+Explore the dimensions of the dataset using `dim`, the variable names using `colnames`, and the type of variable listed by R by `str`. Fill in your findings under 1 in your excel sheet. look up the variables on [insideairbnb](https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896)
+
+```{r}
+question1a<-function(){
+  
+  # write your code per line in this order:
+  # read data file, use <<- to save this in your environment
+  # print nonmissing observations
+  # print maximum value of number of reviews
+  # print the number of neighborhoods
+}
+question1a()
+
+```
+
+Create a dummy variable, where 1 means private room, and 0 means entire apartment. Perform a barplot on the number of beds in the listing `bedrooms`. Make it a stacked barplot using the dummy variable you've created so that you'll see at once how many entire homes exist per listing with a specific number of beds.
+
+```{r}
+question1b<-function(){
+  
+  # write your code here
+  
+  # first create the dummy variable using ifelse() statements
+  # after it is created, save this variable in your environment 
+  # using <<- to assign it to an object (ex df$dummy <<- df$dummy)
+  # create barplot last so this is shown in output below
+}
+question1b()
+```
+
+Perform a boxplot on `pricelast` and the dummy variable you've created. What can you conclude from this plot?
+
+```{r}
+question1b<-function(){
+  # write your code here
+}
+question1b()
+```
+
+\textcolor{magenta}{The boxplot shows that renting an entire apartment, generally speaking, is more expensive compared to renting only a private room.}
+
+# 2. Inspect 1-bedroom listings
+Explore the number of bedrooms across roomtypes. How many 1-room apartments/entire homes exist versus the number of 1-room private rooms. Create a dummy that is `Entire home/apt` for 1-room entire homes, and `Private room` for 1-room private room, and NA for any other room type or having more than 1 bedroom. Check whether you get the same numbers! 
+
+```{r}
+question2a<-function(){
+  
+  # write your code here
+  
+  # first create the dummy variable using ifelse() statements
+  # TIP: run a crosstabulation to check whether you indeed have the same 
+  # number of observations as in the original variable
+  
+  # after it is created, save this variable in your environment 
+  # using <<- to assign it to an object (ex df$dummy <<- df$dummy)
+  
+  # create table last so this is shown in output below
+  # TIP: check whether you omit the missings in bedrooms and dummy
+  
+} 
+question2a()
+```
+
+What is the mean rating for each room type, if you set the missings to zero. Repeat but now disregard the missings at all. How do these means differ? Print the absolute difference between these means. Use `tapply` and `abs`. Create a boxplot of price and the room dummy you've created above. Please see my video on [tapply](https://www.youtube.com/watch?v=XQeag4dki8A).
+
+```{r}
+question2b<-function(){
+  # write your code here
+  # use tapply command to get to the means
+  # subtract the means, take the absolute number
+  # print() this difference in means
+  # create boxplot last so this is shown in output below
+}
+question2b()
+```
+
+
+# 3. Inspect relationships
+How are the monthly number of reviews related to the price? Analyze the price that is last known to Airbnb `pricelast` and `reviewspermonth` using a correlation coefficient `cor` with listwise deletion. Plot these two variables, selecting only the listings with a price until 500 US dollars. Place price at y-axis. What is the correlation between pricelast and number of reviews per month for the selection of listings with a price until 500 dollars? Include this finding in the plot as a legend in the upper right corner of the plot.
+
+```{r}
+question3<-function(){
+  
+  # write your code here
+  # print correlation between reviews per month and pricelast
+  # print maximum value of reviews per month
+  # among all listings
+  
+  # create a scatterplot of this relationship
+  # for listings with a price below 500$
+  
+}
+question3()
+```
+
+
+# 4. Effect of missing values
+Data usually comes with many missing values. In R they are noted as NaN or NA values and can be counted using `is.na`. It is your task as an analyst to decide what to do with them. What is the effect of setting the missings to zero's on `review_scores_rating`?
+
+```{r}
+question4a<-function(){
+  # write your code here
+  # calculate the mean for review_scores_rating
+  # set missings to zero and save this into a variable
+  
+  # calculate the mean for this new variable
+  # and the absolute difference in means
+}
+question4a()
+```
+
+Give one more approach to deal with NAs and think of the trade-off between this method and the zero's method. You could use the last seen value or take an average (look up Moving Average method online). Find a way to impute your values in a sensible manner.
+
+```{r}
+# install.packages("imputeTS")
+library(imputeTS)
+
+question4b<-function(){
+  # write your code here
+  # first calculate the average when moving average is 1
+  # then calculate the average when moving average is 10
+  # use print() around your commands
+}
+question4b()
+```
+
+# 5. Set up supervised classication
+For this week's programming assignment you will classify the listings based on price to predict rating. We have multiple observations per listing (i.e. over time). To make the analysis less complicated, we delete the multi-level structure of the data and obtain the average price per listing.
+
+## Average review score
+Calculate a average review score across the 6 variables of review_scores. Add this variable to the dataframe. Now create a character dummy and label cases that have a average review score lower than 4.95 as "lower rated", and the others as "higher rated".
+```{r}
+question5a<-function(){
+  
+  # write your code here
+  # create the dummy variable using ifelse statement
+  # save as variable in dataset
+  
+  # to save this variable in your environment, use <<-
+  # (ex df$high_review <<- df$high_review)
+  
+  # run table last so it is shown in your output below
+}
+question5a()
+```
+
+Use ggplot to plot this availability over the last quarter (`availability_90` with price that is last known to Airbnb `pricelast`. Make sure you color the groups that you created above for mean review rating < 4.95. Draw a regression line for both groups using `geom_smooth(method="lm")`.Now do this only for the listings that cost below 1000 dollars per night and do not have missing values on the mean review dummy. Repeat again for listings below 500 dollars. Compare the plots, and explain what you see.
+
+```{r}
+library(ggplot2)
+question5b<-function(){
+  
+  # write your code here
+  # save each ggplot in another r object, named for instance g1, g2 etc
+  # use print() to output every plot you've created
+
+}
+question5b()
+```
+
+## Recode
+Recode price in such a way that you end up with 3 groups (low, medium and high price). Look at the distribution, and make sure it is balanced so that each category contains 33% of the listings. Use the `cut` function and define the breaks using the percentage.TIP: First sort the prices using `sort` so that the first 33% of listings contain the lowest price. Check with `table`.
+
+```{r}
+question5c<-function(){
+  
+  # write your code here
+  # create the grouping variable by first ordering the dataset using sort
+  # then think of breaks that split the data in three equal parts
+  # use theses breaks in the cut function
+  
+  # when the grouping variable is created, use <<- to save in your environment
+  # print the average price by using tapply of pricelast and the grouping variable
+  # run table of grouping variable last so it is shown in your output below
+}
+question5c()
+```
+
+The grouping variable that you've just created is one of the explanatory variables that we will use to predict how many days a listing is available in the last three months `availability_90`. This is an example of supervised classification: We know how many days a room was available has received and use other variables to predict this label 
+
+## Mean differences 
+Inspect the total number of reviews the listings have received over time `lastreviews` using these three groups using `tapply`, and report the mean price in the highest 33% of the listings. Test whether these differences are significant using `aov`. 
+
+```{r}
+question5d<-function(){
+  
+  # write your code here
+  # run summary of the anova output last so it is shown in your output below
+}
+question5d()
+```
+\textcolor{magenta}{Since the p-value < 0.05, we accept null hypothesis that the means are the same and conclude there is a statistical difference}
+
+**OPTIONAL** Note that anova is a specific form of multiple regression. Perform the same analysis above but now with `lm`. Observe that the F-value is exactly the same.
+
+## Create a dummy variable 
+Split the availability for last quarter between those listings that were available more than 70 days and those that were 70 days or less available. Inspect with `table`.
+```{r}
+question5e<-function(){
+  
+  # write your code here
+  # create the dummy variable using the ifelse statement
+  # use <<- so it is saved in your environment
+  # run table last so it is shown in your output below
+}
+question5e()
+```
+
+# 6. Supervised classification
+
+Now that you've created the variable to be predicted (the dummy variable of availability last 90 days) and the variables you use to predict (the three price groups, whether it received a review higher than 4.95, the number of reviews, and room type dummy), you can start to train your data.
+
+## Split into training and test set
+First, split your data in training and test data so that 80% is part of the training data, and 20% is the test dataset. Do this randomly using `sample`. Remove those rare listings, i.e. those for which roomtype is missing and those that have 5 bedrooms. 
+
+```{r}
+question6a<-function(){
+  # write your code here
+  # first remove lines with missing roomtype and more than 5 bedrooms
+  
+  # to split the dataset into training and testset, 
+  # # you sample from rownumbers 
+  # # the rownumbers run from 1: nrow(df)
+  
+  # these numbers are divided among training and testset
+  # # and will be used as index
+  # the line before you use sample, set the seed to 1234!
+  
+  # if you create the training set, use <<- so it is saved in your environment
+  # if you create the test set, use <<- so it is saved in your environment
+  # run nrow() of the trainingset last so it is shown in your output below
+}
+question6a()
+```
+
+## Find predicted values using logit regression
+Next, you will try to predict the label you just created using `glm` and its argument `family="binomial"`. This function allows you to estimate a multiple logit model suited to predict a nominal dependent variable. Make sure that the dependent variable is considered nominal by `glm`! You will learn more about logit regression in the following course. Include the price grouping variable, room dummy, number of bedrooms (as factor variable), whether the listing obtained review higher than 4.95 and the number of reviews `reviewtotal`. Note that the observations without availability will be ignored in this analysis (`glm` uses list-wise deletion). 
+
+```{r}
+question6b<-function(){
+  
+  # write your code here
+  # if you create the glm output, use <<- so it is saved in your environment
+  # only train the model on your training set!
+  # use summary() around this glm object to get readable output
+}
+
+question6b()
+```
+
+## Compare predicted with actual groups
+Now that you've found the predicted values, you will use the model parameters that you've estimated above, to calculate the predictions for the test set using `predict`. Use only the complete cases! Inspect the predicted values by `summary`, and plotting a histogram.
+
+```{r}
+question6c<-function(){
+  
+  # write your code here
+  # to predict whether a listing in a test set 
+  # # is available more or less than 70 days
+  # # use the trained model that you saved in question 6b
+  # # and run it on the test set
+  
+  # save the predicted values by <<- in your environment
+  # print the mean value of these predicted values
+  # run histogram of these values last so it is shown in your output below
+}
+question6c()
+```
+What can you learn from this plot?
+
+## Dichtomize the predicted values
+categorize the predicted values, so that there are only two values. The easiest way to do so is to recode all cases below zero as 0, and those above zero as 1. You could also take the mean as a threshold.
+
+```{r}
+question6d<-function(){
+  
+  # write your code here
+  # if you calculate the dummy, use <<- so it is saved in your environment
+  # run table last so it is shown in your output below
+  
+}
+question6d()
+```
+
+# 7. Classification errors
+Compare how the predicted grouping is different from the grouping you made in the training set. Run a cross tab using `table`. 
+
+```{r}
+question7a<-function(){
+  
+  # write your code here
+  # run table last so it is shown in your output below
+}
+question7a()
+```
+## \textcolor{red}{What does this table show you?}
+
+----------------------------------------------------------------------------------
+*please elaborate your answer (4-5 sentences) about here*
+
+
+----------------------------------------------------------------------------------
+
+
+## Inspect misclassified cases
+How many cases are wrongly classified in the test set?  How does this score compare to the one on the training data?
+
+```{r}
+question7b<-function(){
+
+  # write your code here
+  # run table last so it is shown in your output below
+
+}
+question7b()
+```
+
+## Confusion matrix
+Calculate the true positives (TP), true negatives (TN), and false positives (FP), and false negatives (FN). 
+```{r}
+#https://www.rdocumentation.org/packages/caret/versions/3.45/topics/confusionMatrix
+# True Positive (TP): Correctly classified as the class of interest
+# True Negative (TN): Correctly classified as not the class of interest
+# False Positive (FP): Incorrectly classified as the class of interest
+# False Negative (FN): Incorrectly classified as not the class of interest
+
+# write your code here (does not need to be inside a function)
+```
+
+## Precision
+The precision measures the number of true positives of all positively predicted cases (correct and incorrect). Calculate the precision using the following formula: 
+$Precision=\frac{TP}{TP+FP}$
+```{r}
+question7c<-function(){
+  
+  # write your code here
+  # calculate precision 
+}
+question7c()
+```
+
+## Recall
+The recall is the the number of correct positive tests, with respect to correct positive and incorrect negative tests. Calculate the recall using the following formula: 
+$Recall=\frac{TP}{TP+FN}$
+```{r}
+question7d<-function(){
+  
+  # write your code here
+  # calculate recall 
+}
+question7d()
+```
+
+## Accuracy 
+Calculate the accuracy using the following formula: 
+$accuracy=\frac{TP+TN}{TN+TP+FN+FP}$
+```{r}
+question7e<-function(){
+
+  # write your code here
+  # calculate accuracy 
+}
+question7e()
+```
+
+## \textcolor{red}{How well does the model predict the labels in the training set? Use the accuracy, recall and precision in your answer.}
+
+----------------------------------------------------------------------------------
+*please elaborate your answer (4-5 sentences) about here*
+
+
+----------------------------------------------------------------------------------
+
+**************************************************************************************
+
+## KNIT RMARKDOWN TO PDF FILE TO UPLOAD TO CANVAS
+When you're ready, and you know for sure there are no mistakes in your code, you can try to knit the document. Knitting means that you run all the code chunks consecutively, so what is created in one code chunk might be used in the following chunk. 
+
+If you run into problems, please check the following:
+* Do not use the function install.packages() inside your code (only once to install the package). If you include install.packages, R will try to find a connection and install the package while knitting.
+* If you use functions from packages, you need to install this package before knitting, and use the function library() to be able to use them while knitting
+* Make sure the data and variables names you use, are consistent throughout
+* Check your output after you knitted!
+Please see my instruction video about [knitting](https://www.youtube.com/watch?v=uM-lA3K7wmo).
+
+**************************************************************************************
+
+## CREATE .R FILE TO UPLOAD TO CANVAS
+When you're done with the assignment, please run the following code in the console (the window in which commands and output are printed) to obtain the R document:
+
+knitr::purl("./DDMB-week1.Rmd")
+
+Note that the . represents your current working directory, so make sure the .Rmd file is located in this directory. The R file will be located in the same folder as your R project.
+
+**************************************************************************************
